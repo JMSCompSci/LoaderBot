@@ -21,7 +21,7 @@ signature CAM__LEMON = signature (3, -215, 585, 186, -3945, -3379, -3662, 4, 0);
 signature CAM__SIG_4 = signature (4, 0, 0, 0, 0, 0, 0, 0, 0);
 vision CAM = vision (PORT4, 50, CAM__APPLE, CAM__AVACADO, CAM__LEMON, CAM__SIG_4);
 /*vex-vision-config:end*/
-sonar Basket = sonar(Brain.ThreeWirePort.A);
+sonar Basket = sonar(Brain.ThreeWirePort.G);
 pot CountFlap = pot(Brain.ThreeWirePort.E);
 
 // VEXcode generated functions

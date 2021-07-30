@@ -15,7 +15,7 @@
 // Loader               motor         1               
 // Controller1          controller                    
 // CAM                  vision        4               
-// Basket               sonar         A, B            
+// Basket               sonar         G, H            
 // CountFlap            pot           E               
 // ---- END VEXCODE CONFIGURED DEVICES ----
 
